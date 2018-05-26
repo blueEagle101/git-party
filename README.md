@@ -1,2 +1,3 @@
-# git-party
-wwc git party 101
+## git-party
+
+Learning git with women who code
